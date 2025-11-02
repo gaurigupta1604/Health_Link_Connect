@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.idea/
+.settings/
+.classpath
+.project
+*.log
+hs_err_pid*
+dependency-reduced-pom.xml
+.DS_Store
+*.db
+healthcare.mv.db
+healthcare.trace.db
