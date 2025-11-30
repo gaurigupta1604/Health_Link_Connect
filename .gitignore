@@ -1,9 +1,4 @@
 target/
-*.class
-*.jar
-*.war
-*.ear
-*.iml
 .idea/
 .settings/
 .classpath
